@@ -1,0 +1,18 @@
+.container-recipes {
+  max-width: 1638px;
+  width: 100%;
+  margin: 110px auto 0;
+}
+.container-recipes h1 {
+  margin-bottom: 30px;
+}
+.container-recipes .all-recipes {
+  margin: 0 0 30px;
+}
+.container-recipes .name {
+  font-weight: 700;
+  font-size: 24px;
+  color: #000;
+}
+
+/*# sourceMappingURL=MyRecipes.css.map */

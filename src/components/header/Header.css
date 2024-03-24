@@ -1,0 +1,30 @@
+header {
+  padding: 0 10px;
+}
+header .header-content {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1638px;
+  margin: 0 auto;
+  align-items: center;
+}
+header .header-content .logo {
+  font-weight: 700;
+  font-size: 32px;
+}
+header .header-content .logo a {
+  text-decoration: none;
+  color: #000;
+}
+header .header-content nav ul {
+  list-style-type: none;
+}
+header .header-content nav ul a {
+  text-decoration: none;
+  font-weight: 300;
+  font-size: 16px;
+  color: #000;
+}
+
+/*# sourceMappingURL=Header.css.map */

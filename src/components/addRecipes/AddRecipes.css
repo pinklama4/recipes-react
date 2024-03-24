@@ -1,0 +1,48 @@
+main {
+  justify-content: center;
+  display: flex;
+  margin-top: 200px;
+}
+main .new-recipes .header-recipes p {
+  margin: 0 0 10px;
+  font-weight: 700;
+  font-size: 16px;
+  color: #000;
+}
+main .new-recipes .header-recipes input {
+  padding: 0 20px;
+  border: 2px solid #000;
+  border-radius: 58px;
+  width: 289px;
+  height: 28px;
+}
+main .new-recipes .title-recipes p {
+  margin: 20px 0 10px;
+  font-weight: 700;
+  font-size: 16px;
+  color: #000;
+}
+main .new-recipes .title-recipes input {
+  margin-bottom: 10px;
+  padding: 0 20px;
+  border: 2px solid #000;
+  border-radius: 25px;
+  width: 289px;
+  height: 28px;
+}
+main .new-recipes button {
+  padding: 10px 40px;
+  border: 2px solid black;
+  border-radius: 50px;
+  background: none;
+  font-weight: 500;
+  font-size: 16px;
+  color: #000;
+  cursor: pointer;
+}
+main .new-recipes button:hover {
+  background: black;
+  color: white;
+}
+
+/*# sourceMappingURL=AddRecipes.css.map */
