@@ -11,7 +11,7 @@ export function Header() {
               <nav>
                   <ul>
                       <li>
-                          <a href="/Рецепты">Мои рецепты</a>
+                          <a href="/recipes">Мои рецепты</a>
                       </li>
                   </ul>
               </nav>
