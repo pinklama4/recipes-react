@@ -1,7 +1,6 @@
 main {
-  justify-content: center;
-  display: flex;
-  margin-top: 200px;
+  margin: 200px 0 0;
+  text-align: center;
 }
 main .new-recipes .header-recipes p {
   margin: 0 0 10px;

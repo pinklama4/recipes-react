@@ -33,7 +33,6 @@ export function AddRecipes() {
                 <form>
                     <button onClick={() => handleRemove(item.id)}>Удалить</button> {}
                 </form>
-                <button >Выполнено</button>
             </div>
         ));
     }, [handleRemove]);
